@@ -1,0 +1,30 @@
+.product-reviews {
+  border-top: 2px solid #eee;
+  margin-top: 30px;
+  padding-top: 20px;
+}
+
+.product-reviews h3 {
+  font-size: 24px;
+  color: #333;
+}
+
+.review {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+  margin-bottom: 10px;
+}
+
+.review h4 {
+  font-size: 18px;
+  margin: 0;
+}
+
+.rating {
+  color: #f5c518; /* Cor amarela para as estrelas */
+}
+
+.review p {
+  font-size: 16px;
+  color: #555;
+}
